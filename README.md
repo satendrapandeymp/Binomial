@@ -1,4 +1,4 @@
-## Getting relevent videos for tutorialspoint.com tutorials
+## A practical way to make your calculation fast for binomial calculation till 1mn.
 
 ## Installation
 
